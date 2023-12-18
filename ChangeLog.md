@@ -1,9 +1,9 @@
 #Change Log
 
 ## Unreleased
-
-## 1.8
-- FIX : Compat v19 et php8.2 *07/10/2023* - 1.8.0
+- NEW : Compat V19 et php 8.2  *07/11/2023* - 1.8.0
+  Changed Dolibarr compatibility range to 15 min - 19 max  
+  Change PHP compatibility range to 7.0 min - 8.2 max
 
 ## 1.7
 - NEW : Ajout de la possibilité d'exporter la liste des prix clients *07/10/2023* - 1.7.0
